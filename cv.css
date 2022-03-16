@@ -1,0 +1,37 @@
+
+            .roundp {
+              border-radius: 50%;
+            }
+            .f_backg{
+              background-color: rgb(142, 161, 161);
+            }
+            .text_backg{
+              background:rgb(142, 161, 161);
+            }
+              .center{
+                margin-left: auto; 
+                margin-right: auto;
+            }
+            table{
+              border:1px solid;
+                padding:10px 40px; 
+                width:700px;
+                resize:both;
+                overflow:auto;
+               background-image:url(imagine/pozaFundal.png);
+                
+            }
+            ul#menu li {
+              display:inline;
+            }
+            ul {
+              display: table;
+              margin: 0 auto;
+            }
+            footer {
+              text-align: center;
+            }
+            header{
+              text-align: center ;
+            }
+            
